@@ -7,10 +7,13 @@ Gulp gives the livereload super quick power.
 ### To install
 
 ```bash
-git clone https://github.com/MadeOnMars/Express-boilerplate.git myApp
+git clone https://github.com/vaffonso/express-route-lite.git myApp
 cd myApp
 npm install
 npm install --global gulp
 gulp
 # The project is available at http://localhost:3000
 ```
+
+### Reference
+https://github.com/MadeOnMars/Express-boilerplate
